@@ -2,3 +2,4 @@
 
 > Actividad Git
 
+$$ \text{Foo text} $$
